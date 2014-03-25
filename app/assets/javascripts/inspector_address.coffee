@@ -240,13 +240,13 @@ $ ->
       }
       {
         element: "#map-highlight"
-        intro: "Seems easy right? We'll take you through a few examples so you can see some harder \"edge cases\" as well. "
+        intro: "Seems easy right? Well, this one is anyway. Mark it 20, will ya? But we'll take you a few examples so you can see some harder \"edge cases\" as well. "
         position: "right"
         polygon_index: 0
       }
       {
         element: "#submit-button"
-        intro: "[no text provided]"
+        intro: "Come on smart guy, mark it 20 and we'll get to the hard stuff."
         position: "top"
         polygon_index: 0
       }
